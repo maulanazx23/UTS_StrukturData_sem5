@@ -1,5 +1,6 @@
 def gabung_list(list1, list2):
     return list1 + list2
+    return result
 
 #Contoh penggunaan
 list_a = [1, 2, 3]
